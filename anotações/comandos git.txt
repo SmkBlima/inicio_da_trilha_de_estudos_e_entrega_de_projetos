@@ -19,5 +19,5 @@ CRIAR REPOSITÓRIO NO GITHUB
 - criar a pasta específica e rodar o gitbash nela
 - git clone "link"
 - git add -A
-- git commit -m "comentário" -> importante adcionar o comentário a cada comitação
+- git commit -m "comentário" -> importante adicionar o comentário a cada comitação
 - git push origin main
