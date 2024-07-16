@@ -1,0 +1,23 @@
+*cd -entrar em pasta.
+*ls - listar diretório atual.
+*mkdir - criar pasta no diretório atual.
+*del/rm - deletar arquivos.
+*clear - limpar tela do gitbash ( se mantém no repositório atual ).
+*echo - cria arquivo.
+*cd.. - volta uma pasta.
+*git init - inicia um repositório na pasta atual pelo git.
+*git add - adiciona ao stage.  (git add -a _ adicionas todos os arquivos do repositório)
+*git commit - commita os arquivos. ( -m adiciona um comentário ao commit)
+*git status - verifica o status.
+
+-----------------------------------------------------------------------------------------
+
+CRIAR REPOSITÓRIO NO GITHUB
+
+- criar repositório
+- commitar no github
+- criar a pasta específica e rodar o gitbash nela
+- git clone "link"
+- git add -A
+- git commit -m "comentário" -> importante adcionar o comentário a cada comitação
+- git push origin main
